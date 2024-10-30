@@ -5,7 +5,7 @@
 ## About Me :
 
 - 🏢 I am currently working as a **Full Stack Developer** at [Techstaunch](https://in.linkedin.com/company/techstaunch)
-- 🎓 Studies for Software Engineering at [C.K Pithawalla College](https://ckpcet.ac.in/)
+- 🎓 Studied for Computer Engineering at [C.K Pithawalla College](https://ckpcet.ac.in/)
 - 🏡'Lives in **Gujarat, India**
 
 <br>
